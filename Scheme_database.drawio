@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T13:03:12.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 OPR/74.0.3911.160" etag="pGBfF4fI7lq0uXJoiFhJ" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-08T13:05:23.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 OPR/74.0.3911.160" etag="Nkkd4AgFD8tRBUoQnc8k" version="14.4.4" type="github">
   <diagram id="dUKlriAhat97oubzxFMH" name="Page-1">
-    <mxGraphModel dx="2065" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2200" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,7 +83,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="S6z84EZazb9VoYRG6gCT-20" value="Has" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="325" width="74" height="40" as="geometry" />
+          <mxGeometry x="355" y="332.5" width="74" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S6z84EZazb9VoYRG6gCT-23" value="Bank details" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="282.5" width="80" height="35" as="geometry" />
@@ -245,7 +245,7 @@
             <mxPoint x="310" y="320" as="sourcePoint" />
             <mxPoint x="360" y="270" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="280" y="320" />
+              <mxPoint x="290" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -259,7 +259,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AxKbAEhmJMji4_Gcyk8H-12" value="1..N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="513.5926897662198" y="620.0014951189933" as="geometry">
+          <mxGeometry x="380.00268976621976" y="520.0014951189933" as="geometry">
             <mxPoint x="7" y="-63" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -270,7 +270,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AxKbAEhmJMji4_Gcyk8H-14" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="650.5882352941176" y="212.0000000000001" as="geometry">
+          <mxGeometry x="650.9982352941175" y="240.0000000000001" as="geometry">
             <mxPoint x="-450" y="61" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -280,12 +280,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AxKbAEhmJMji4_Gcyk8H-16" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="661.9982352941175" y="230.0000000000001" as="geometry">
+          <mxGeometry x="661.9982352941175" y="237.5000000000001" as="geometry">
             <mxPoint x="-280" y="199" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AxKbAEhmJMji4_Gcyk8H-17" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="680.5882352941176" y="242.0000000000001" as="geometry">
+          <mxGeometry x="680.9982352941175" y="240.0000000000001" as="geometry">
             <mxPoint x="-170" y="185" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -308,7 +308,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AxKbAEhmJMji4_Gcyk8H-22" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="720.5882352941176" y="282.0000000000001" as="geometry">
+          <mxGeometry x="859.9982352941175" y="385.0000000000001" as="geometry">
             <mxPoint x="-342" y="175" as="offset" />
           </mxGeometry>
         </mxCell>

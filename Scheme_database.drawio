@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T15:44:51.689Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 OPR/74.0.3911.203" etag="S8eIID8yaLbp2s6HbC5S" version="14.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T15:45:59.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 OPR/74.0.3911.203" etag="_kplPHI6EreC2kSp1W2F" version="14.4.6" type="github">
   <diagram id="dUKlriAhat97oubzxFMH" name="Page-1">
     <mxGraphModel dx="2065" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -413,7 +413,7 @@
         <mxCell id="gzNxHE9mh_g1VyEG_6RI-77" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="gzNxHE9mh_g1VyEG_6RI-76">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gzNxHE9mh_g1VyEG_6RI-78" value="annual_salary (VARCHAR 10)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="gzNxHE9mh_g1VyEG_6RI-76">
+        <mxCell id="gzNxHE9mh_g1VyEG_6RI-78" value="annual_salary (INT)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="gzNxHE9mh_g1VyEG_6RI-76">
           <mxGeometry x="30" width="240" height="30" as="geometry" />
         </mxCell>
       </root>

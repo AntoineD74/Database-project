@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-18T20:23:24.246Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36 OPR/74.0.3911.218" etag="pdoZibzc3X31iRwVd5HO" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-18T20:24:02.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36 OPR/74.0.3911.218" etag="_gEKMGVgIHzgPhkP79nM" version="14.4.8" type="github">
   <diagram id="dUKlriAhat97oubzxFMH" name="Page-1">
-    <mxGraphModel dx="5779" dy="2192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2890" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,7 +178,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gzNxHE9mh_g1VyEG_6RI-5" value="Employee" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="32" y="680" width="270" height="290" as="geometry">
+          <mxGeometry x="17.75" y="680" width="270" height="290" as="geometry">
             <mxRectangle x="-170" y="680" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -774,7 +774,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="91HeKqmKCbLNptaQR4t4-56" value="Position" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="780" width="270" height="90" as="geometry">
+          <mxGeometry x="-710" y="795" width="270" height="90" as="geometry">
             <mxRectangle x="4" y="1039" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>

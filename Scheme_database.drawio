@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T15:09:02.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.218" etag="XdOFRIFGY19sI4KQsTk9" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-28T15:21:13.372Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.218" etag="YMqBOXrFj2xH2DRMjqfZ" version="14.6.6" type="github">
   <diagram id="dUKlriAhat97oubzxFMH" name="Page-1">
-    <mxGraphModel dx="2045" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1977" dy="370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -977,7 +977,7 @@
         <mxCell id="daMKFZPtW8tF1D4toAes-19" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="daMKFZPtW8tF1D4toAes-18" vertex="1">
           <mxGeometry width="39" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="daMKFZPtW8tF1D4toAes-20" value="salary (INT)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="daMKFZPtW8tF1D4toAes-18" vertex="1">
+        <mxCell id="daMKFZPtW8tF1D4toAes-20" value="status (VARCHAR50)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="daMKFZPtW8tF1D4toAes-18" vertex="1">
           <mxGeometry x="39" width="231" height="30" as="geometry" />
         </mxCell>
         <mxCell id="daMKFZPtW8tF1D4toAes-21" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="daMKFZPtW8tF1D4toAes-15" target="daMKFZPtW8tF1D4toAes-25" edge="1">

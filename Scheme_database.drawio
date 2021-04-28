@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T15:36:40.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.218" etag="XxDi6DOb21QZQmqqAV7U" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-28T16:42:43.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.218" etag="PLNRU_Bk1B6Ux3KR2m_I" version="14.6.6" type="github">
   <diagram id="dUKlriAhat97oubzxFMH" name="Page-1">
-    <mxGraphModel dx="2862" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3104" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -221,7 +221,7 @@
         <mxCell id="daMKFZPtW8tF1D4toAes-26" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="daMKFZPtW8tF1D4toAes-25" vertex="1">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="daMKFZPtW8tF1D4toAes-27" value="status (INT UNSIGNED)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="daMKFZPtW8tF1D4toAes-25" vertex="1">
+        <mxCell id="daMKFZPtW8tF1D4toAes-27" value="status_employee (INT UNSIGNED)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="daMKFZPtW8tF1D4toAes-25" vertex="1">
           <mxGeometry x="30" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gzNxHE9mh_g1VyEG_6RI-12" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="gzNxHE9mh_g1VyEG_6RI-5" vertex="1">
@@ -957,7 +957,7 @@
         <mxCell id="daMKFZPtW8tF1D4toAes-7" value="salary (INT UNSIGNED)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="daMKFZPtW8tF1D4toAes-5" vertex="1">
           <mxGeometry x="39" width="231" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="daMKFZPtW8tF1D4toAes-14" value="Status" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+        <mxCell id="daMKFZPtW8tF1D4toAes-14" value="StatusEmployee" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="204.99999999999997" y="1079" width="270" height="90" as="geometry">
             <mxRectangle x="4" y="1039" width="80" height="30" as="alternateBounds" />
           </mxGeometry>

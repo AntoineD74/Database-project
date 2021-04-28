@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T14:56:01.783Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.218" etag="iM4wwefVReEG97EzAh3b" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-28T15:09:02.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.218" etag="XdOFRIFGY19sI4KQsTk9" version="14.6.6" type="github">
   <diagram id="dUKlriAhat97oubzxFMH" name="Page-1">
-    <mxGraphModel dx="4071" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2045" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -755,7 +755,7 @@
         <mxCell id="daMKFZPtW8tF1D4toAes-32" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="daMKFZPtW8tF1D4toAes-31" vertex="1">
           <mxGeometry width="39" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="daMKFZPtW8tF1D4toAes-33" value="postal_code (INT)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="daMKFZPtW8tF1D4toAes-31" vertex="1">
+        <mxCell id="daMKFZPtW8tF1D4toAes-33" value="postal_code (INT UNSIGNED)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="daMKFZPtW8tF1D4toAes-31" vertex="1">
           <mxGeometry x="39" width="241" height="30" as="geometry" />
         </mxCell>
         <mxCell id="85QE2PFBhar6OE38Wx7e-4" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="91HeKqmKCbLNptaQR4t4-74" target="gzNxHE9mh_g1VyEG_6RI-94" edge="1">
